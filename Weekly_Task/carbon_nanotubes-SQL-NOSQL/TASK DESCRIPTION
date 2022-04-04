@@ -1,0 +1,30 @@
+Problem Statement:
+
+visit the link:https://archive.ics.uci.edu/ml/datasets/Carbon+Nanotubes
+download the dataset
+insert bulk data(csv file in mongodb)
+different operation.
+
+4.1 insertiion
+4.2 update
+4.3 deletion
+4.4 find operation
+4.5 filter
+
+code evalution
+
+modular coding
+execption handling
+proper log
+
+
+Data columns:
+
+Chiral indice n;
+Chiral indice m;
+Initial atomic coordinate u;
+Initial atomic coordinate v;
+Initial atomic coordinate w;
+Calculated atomic coordinates u';
+Calculated atomic coordinates v';
+Calculated atomic coordinates w'
